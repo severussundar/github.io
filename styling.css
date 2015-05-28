@@ -1,0 +1,62 @@
+#container{
+  
+
+   left:auto;
+   
+   padding-top:5px;
+   width:195px;
+   height:230px;
+   background-color:grey;  
+}
+
+#btn{
+  
+    
+   margin-left:3px; 
+   left:auto;
+    
+   border:1px solid lightgrey;
+   color:white;
+   background-color:grey;
+   padding-top:5px; 
+   height:40px;
+   width:40px;     
+
+}
+#btnc{
+     
+      
+     left:auto;
+     
+     border:1px solid red;
+     background-color:red;
+     color:white;
+     padding-top:5px;   
+     height:40px;
+     width:40px;
+}
+#equal{
+	
+	 
+  left:auto;
+  font-size:24; 
+	width:195px;
+	height:40px;
+	background-color:darkcyan;
+	color:white;
+	text-align:center;  
+
+
+}
+#display{
+  
+   left:auto;
+   color:white;
+   text-align:right;
+   
+   font-size:30px;  
+	 background-color:darkcyan;
+	 width:195px;
+	 height:120px;
+	  
+}
