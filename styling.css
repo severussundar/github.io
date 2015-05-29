@@ -1,8 +1,7 @@
 #container{
   
 
-   left:auto;
-   
+   left:auto; 
    padding-top:5px;
    width:195px;
    height:230px;
@@ -13,8 +12,7 @@
   
     
    margin-left:3px; 
-   left:auto;
-    
+   left:auto;  
    border:1px solid lightgrey;
    color:white;
    background-color:grey;
@@ -26,8 +24,7 @@
 #btnc{
      
       
-     left:auto;
-     
+     left:auto; 
      border:1px solid red;
      background-color:red;
      color:white;
@@ -53,7 +50,6 @@
    left:auto;
    color:white;
    text-align:right;
-   
    font-size:30px;  
 	 background-color:darkcyan;
 	 width:195px;
